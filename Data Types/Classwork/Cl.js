@@ -266,3 +266,25 @@ console.log(Capitalvites(vitamins));
     // Q2: 
         // create a function which takes in two arrays
         // the function will return a new array of any common elements
+    //     var dec = newBigNumber("1.9");
+    //     var dec2 = newBigNumber("2.0");
+    // function multiply(param1,param2) {
+    //     return param1 * param2
+    //     }
+    // console.log(multiply(3,2));
+
+    // function setDecimalPlaces() { 
+    //     pi = 3.14159265359; 
+    //     twoPlaces = pi.toFixed(2); 
+    //     fivePlaces = pi.toFixed(5);
+    //     eightPlaces = pi.toFixed(8); 
+    //     zeroPlaces = pi.toFixed(0); 
+        
+    //     return eightPlaces
+    // }
+
+    // console.log(setDecimalPlaces());
+    
+    
+    
+    
